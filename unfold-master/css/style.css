@@ -806,7 +806,7 @@ a, a:hover {
   color: #fff;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 600px) {
   .cover-v1 .heading {
     font-size: 3rem;
   }
