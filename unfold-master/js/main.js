@@ -649,7 +649,7 @@ var animateReveal = function() {
 
   $(function() {
     typed.typed({
-      strings: ["Daniel Alejandro Morales Castillo", "Student", "Developer", "Microsoft Learn Student Ambassador","IBM Z Ambassador", "Gamer", "Mexican and Geek"],
+      strings: ["Daniel Morales", "Student", "Developer", "Microsoft Learn Student Ambassador","IBM Z Ambassador", "Gamer", "Mexican and Geek"],
       typeSpeed: 1,
       loop: true,
     });
